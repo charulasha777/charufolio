@@ -21,9 +21,27 @@
   </ul>
 </nav>
 
+<div class="container">
+  <div class="row">
+  
+  
+    <div class="col-md-4">
+    
+  <div class="card card2" style="width:400px; text:center">
+    <img class="card-img-top" src="img_avatar1.png" alt="Card image" style="width:100%">
+    <div class="card-body">Me yet to be Updated. Actual Image.
+      <h4 class="card-title">Charulasha Gunawardana</h4>
+      <p class="card-text">Sorry for the Delay. I am an architect and engineer</p>
+      <!-- <a href="#" class="btn btn-primary stretched-link">See Profile</a> -->
+    </div>
+  </div>
+  </div>
+  </div>
+</div>
+
 
 <div class="jumbotron text-center">
-<h1 class="animate1">An animated element</h1>
+<h1 class="animate1">Charulasha Gunawardana</h1>
   <p>Resize this responsive page to see the effect!</p> 
 </div>
 
@@ -65,6 +83,20 @@ translateX: 0,
 rotateZ:360,
 duration : 3000,
 loop: true
+});
+
+anime({
+targets :'.card2',
+translateX: 370,
+  direction: 'alternate',
+  loop: true,
+  duration : 3000,
+  delay: function(el, i, l) {
+    return i * 100;
+  },
+  endDelay: function(el, i, l) {
+    return (l - i) * 100;
+  }
 });
 
 </script>
