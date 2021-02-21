@@ -12,6 +12,14 @@
 </head>
 <body>
 
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <ul class="navbar-nav">
+    <li class="nav-item active">
+      <a class="nav-link" href="#">Home</a>
+    </li>
+    
+  </ul>
+</nav>
 
 
 <div class="jumbotron text-center">
