@@ -31,7 +31,7 @@
     <img class="card-img-top" src="img_avatar1.png" alt="Card image" style="width:100%">
     <div class="card-body">Me yet to be Updated. Actual Image.
       <h4 class="card-title">Charulasha Gunawardana</h4>
-      <p class="card-text">Sorry for the Delay. I am an architect and engineer</p>
+      <p class="card-text">Contact No - 0774181544</p>
       <!-- <a href="#" class="btn btn-primary stretched-link">See Profile</a> -->
     </div>
   </div>
@@ -41,7 +41,7 @@
 
 
 <div class="jumbotron text-center">
-<h1 class="animate1">Charulasha Gunawardana</h1>
+<h1 class="animate1">My Few of Projects</h1>
   <p>Resize this responsive page to see the effect!</p> 
 </div>
 
