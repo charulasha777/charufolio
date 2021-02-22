@@ -29,7 +29,7 @@
     
   <div class="card card2" style="width:400px; text:center">
     <img class="card-img-top" src="img_avatar1.png" alt="Card image" style="width:100%">
-    <div class="card-body">Me yet to be Updated. Actual Image.
+    <div class="card-body">Email - <a href="mailto:charulasha77@hotmail.com">charulasha77@hotmail.com</a> 
       <h4 class="card-title">Charulasha Gunawardana</h4>
       <p class="card-text">Contact No - 0774181544</p>
       <!-- <a href="#" class="btn btn-primary stretched-link">See Profile</a> -->
